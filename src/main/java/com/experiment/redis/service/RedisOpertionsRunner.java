@@ -1,6 +1,6 @@
-package com.experiment.rqueue.poc.service;
+package com.experiment.redis.service;
 
-import com.experiment.rqueue.poc.data.Employee;
+import com.experiment.redis.data.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;

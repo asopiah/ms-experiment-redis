@@ -1,4 +1,4 @@
-package com.experiment.rqueue.poc.data;
+package com.experiment.redis.data;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

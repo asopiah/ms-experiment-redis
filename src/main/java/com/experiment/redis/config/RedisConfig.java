@@ -1,4 +1,4 @@
-package com.experiment.rqueue.poc.config;
+package com.experiment.redis.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

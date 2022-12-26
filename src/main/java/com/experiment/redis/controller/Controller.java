@@ -1,7 +1,7 @@
-package com.experiment.rqueue.poc.controller;
+package com.experiment.redis.controller;
 
-import com.experiment.rqueue.poc.data.Email;
-import com.experiment.rqueue.poc.data.Invoice;
+import com.experiment.redis.data.Email;
+import com.experiment.redis.data.Invoice;
 import com.github.sonus21.rqueue.core.RqueueMessageEnqueuer;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

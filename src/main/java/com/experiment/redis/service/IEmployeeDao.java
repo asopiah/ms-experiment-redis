@@ -1,6 +1,6 @@
-package com.experiment.rqueue.poc.service;
+package com.experiment.redis.service;
 
-import com.experiment.rqueue.poc.data.Employee;
+import com.experiment.redis.data.Employee;
 import com.fasterxml.jackson.core.JsonProcessingException;
 
 import java.util.Map;

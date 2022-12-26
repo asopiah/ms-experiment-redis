@@ -1,7 +1,7 @@
-package com.experiment.rqueue.poc.redis;
+package com.experiment.redis.redis;
 
-import com.experiment.rqueue.poc.data.Email;
-import com.experiment.rqueue.poc.data.Invoice;
+import com.experiment.redis.data.Email;
+import com.experiment.redis.data.Invoice;
 import com.github.sonus21.rqueue.annotation.RqueueListener;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;

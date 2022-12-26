@@ -9,10 +9,14 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.experiment</groupId>
-    <artifactId>ms-rqueue-spring-boot-poc</artifactId>
+    <artifactId>ms-experiment-redis</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ms-rqueue-spring-boot-poc</name>
-    <description>ms-rqueue-spring-boot-poc</description>
+    <name>ms-experiment-redis</name>
+    <description>This service is a Spring Boot application for experimenting with Redis using the Spring Data Redis
+        library. The service provides a number of features for interacting with Redis, including the ability to save,
+        retrieve, update, and delete data in Redis. The service also includes support for working with Redis templates
+        and repositories, which can be used to perform advanced operations on Redis data.
+    </description>
     <properties>
         <java.version>17</java.version>
     </properties>

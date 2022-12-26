@@ -1,4 +1,4 @@
-package com.experiment.rqueue.poc;
+package com.experiment.redis;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
