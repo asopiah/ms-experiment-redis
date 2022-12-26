@@ -1,4 +1,17 @@
-package com.experiment.rqueue.poc.data;/**
+package com.experiment.rqueue.poc.data;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+/**
  * @author asopia
- */public class Invoice {
+ */
+
+
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+public class Invoice {
+    private String id;
+    private String type;
 }
